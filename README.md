@@ -22,16 +22,12 @@ I'm a graduate student currently pursuing a Master's degree in Computer Engineer
 
 ## 🧑‍💻 My Tech Stack
 ### Backend
-- C/C++
-- Java
-- Python
-- JavaScript
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### Frontend
-- HTML
-- Reactjs
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
 ### Databases
-- MySQL
-- MongoDB
-- SQLite
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/sqlite.png"/>
