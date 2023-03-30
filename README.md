@@ -30,4 +30,4 @@ I'm a graduate student currently pursuing a Master's degree in Computer Engineer
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
 ### Databases
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/sqlite.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/posgresql.png"/>
