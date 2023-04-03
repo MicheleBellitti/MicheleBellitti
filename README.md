@@ -1,6 +1,6 @@
 # Hi, I'm Michele Bellitti! 👋
 
-I'm a graduate student currently pursuing a Master's degree in Computer Engineering with a specialization in AI Engineering curriculum. I'm passionate about backend development and have expertise in languages such as C/C++, Java, Python, and JavaScript for the backend and HTML, Reactjs for the frontend.
+I'm a graduate student currently pursuing a Master's degree in Computer Engineering with a specialization in AI Engineering curriculum. I'm passionate about backend development and have expertise in languages such as C/C++, Java, Python, and JavaScript for the backend and CSS, HTML, React.js for the frontend.
 
 ## 🔭 I’m currently working on
 - Deep Learning projects for Cognitive Systems
