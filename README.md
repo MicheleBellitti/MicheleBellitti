@@ -61,6 +61,9 @@
  </td></tr></table>  
 
 <br/> 
-
-![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicheleBellitti&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleBellitti)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=MicheleBellitti&show_icons=true&theme=radical&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MicheleBellitti&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleBellitti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleBellitti&show_icons=true&theme=radical&count_private=true" />
+</a>
