@@ -60,7 +60,7 @@
 </div>
  </td></tr></table>  
 
-<br/> 
+<br> 
 <a href="https://github-readme-stats.vercel.app/api?username=MicheleBellitti&show_icons=true&theme=radical&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MicheleBellitti&show_icons=true&theme=radical&count_private=true" />
 </a>
