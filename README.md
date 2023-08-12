@@ -1,10 +1,4 @@
 # I'm Michele 👨🏻‍💻
-<br>
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div> 
-
-
 
 ## 🔭 I’m currently working on
 - Deep Learning projects for Cognitive Systems
