@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me
 - Email: [michelebellitti272@gmail.com](mailto:michelebellitti272@gmail.com)
-- LinkedIn: [Michele Bellitti](https://www.linkedin.com/in/michele-bellitti/)
+- LinkedIn: [Michele Bellitti](https://www.linkedin.com/in/michele-bellitti-38a686234/)
 
 ## 🧑‍💻 My Tech Stack
 <table><tr><td valign="top" width="33%">
