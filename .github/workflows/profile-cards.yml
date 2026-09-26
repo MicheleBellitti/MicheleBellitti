@@ -1,0 +1,63 @@
+# Regenerates the images embedded in README.md (stats cards + contribution snake)
+# and publishes them to the `output` branch, so `main` history stays clean.
+#
+# Optional secret STATS_TOKEN: a classic PAT with `repo` + `read:user` scopes.
+# With it, private repositories and contributions are counted; without it the
+# workflow falls back to the default token and shows public data only.
+
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/profile-cards.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github
+          path: dist/stats.svg
+          token: ${{ secrets.STATS_TOKEN || github.token }}
+          fail_on_error: true
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=467&hide=html,css&theme=tokyonight&hide_border=true&border_radius=10
+          path: dist/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || github.token }}
+          fail_on_error: true
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.STATS_TOKEN || github.token }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#f7768e&color_dots=#161b22,#2d3a6b,#4a5cb0,#7aa2f7,#bb9af7
+            dist/snake-light.svg?color_snake=#f7768e&color_dots=#ebedf0,#c9d4f5,#9aaef0,#7aa2f7,#9d7cd8
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update profile cards"
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
