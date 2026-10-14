@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mbell-app.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=bb9af7&labelColor=1a1b27&color=1a1b27" alt="Portfolio" /></a>
+  <a href="https://www.bellittim.com/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=bb9af7&labelColor=1a1b27&color=1a1b27" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/michele-bellitti-38a686234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQgOWg0djExSDR6TTYgMy41YTIuMiAyLjIgMCAxIDEgMCA0LjQgMi4yIDIuMiAwIDAgMSAwLTQuNHpNMTAgOWgzLjh2MS42Yy42LTEgMS45LTEuOSAzLjgtMS45IDMuNiAwIDQuNCAyLjMgNC40IDUuNFYyMGgtNHYtNS4yYzAtMS4zIDAtMi45LTEuOC0yLjlzLTIuMSAxLjQtMi4xIDIuOFYyMGgtNHoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
   <a href="mailto:michelebellitti272@gmail.com"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -52,7 +52,7 @@ I enjoy working where classical ML, agentic GenAI and large-scale data processin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚽ <a href="https://goalie-two.vercel.app/">Goalie</a></h3>
+      <h3>⚽ <a href="https://goalie.bellittim.com/">Goalie</a></h3>
       <p>AI football chatbot with streaming answers. A router sends each question to a direct answer or a web-search agent that refines the query first.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -60,7 +60,7 @@ I enjoy working where classical ML, agentic GenAI and large-scale data processin
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
         <img src="https://img.shields.io/badge/SSE-1a1b27?style=flat-square" alt="SSE" />
       </p>
-      <p><a href="https://goalie-two.vercel.app/">🔗 Live demo</a> · <sub>🔒 private repo</sub></p>
+      <p><a href="https://goalie.bellittim.com/">🔗 Live demo</a> · <sub>🔒 private repo</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>🔁 <a href="https://github.com/MicheleBellitti/Loop">Loop</a></h3>
@@ -77,7 +77,7 @@ I enjoy working where classical ML, agentic GenAI and large-scale data processin
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧳 <a href="https://trip-tracker-nu-ivory.vercel.app/">Trip Tracker</a></h3>
+      <h3>🧳 <a href="https://viaggi.bellittim.com/">Trip Tracker</a></h3>
       <p>Offline-first trip planner that tracks booking deadlines. Trips are end-to-end encrypted: the key never leaves the device.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -85,7 +85,7 @@ I enjoy working where classical ML, agentic GenAI and large-scale data processin
         <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
-      <p><a href="https://trip-tracker-nu-ivory.vercel.app/">🔗 Live demo</a> · <sub>🔒 private repo</sub></p>
+      <p><a href="https://viaggi.bellittim.com/">🔗 Live demo</a> · <sub>🔒 private repo</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/MicheleBellitti/ObjectDescriptionSupermarket-CVCS-UniMoRe">Supermarket Scene Description</a></h3>
